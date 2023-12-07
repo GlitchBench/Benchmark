@@ -2,6 +2,11 @@
 
 This repository contains the code and the data for the paper `GlitchBench: Can large multimodal models detect video game glitches?`
 
+
+<div align="center">    
+<p  style="font-size: 45px;"> by Anonymous Authors </p>
+</div>
+
 ## Abstract
 
 Large multimodal models (LMMs) have evolved from large language models (LLMs) to integrate multiple input modalities, such as visual inputs. This integration augments the capacity of LLMs in tasks requiring visual comprehension and reasoning. However, the extent and limitations of their enhanced abilities are not fully understood. To address this gap, we introduce GlitchBench, a novel benchmark designed to test and evaluate the common-sense reasoning and visual recognition capabilities of large multimodal models. Our dataset is curated from a variety of unusual, infrequent, and glitched scenarios from video game content and aims to challenge both the visual and linguistic reasoning powers of LMMs in detecting and interpreting out-of-the-ordinary events and scene composition.
