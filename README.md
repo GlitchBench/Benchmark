@@ -4,8 +4,14 @@ This repository contains the code and the data for the paper `GlitchBench: Can l
 
 
 <div align="center">    
-<p  style="font-size: 45px;"> by Anonymous Authors </p>
+    <p style="font-size: 45px;"> by 
+        <a href="https://taesiri.ai">Mohammad Reza Taesiri</a>, 
+        Tianjun Feng
+        <a href="https://anhnguyen.me/research/">Anh Nguyen</a>, and 
+        <a href="https://asgaard.ece.ualberta.ca/">Cor-Paul Bezemer</a> 
+    </p>
 </div>
+
 
 ## Abstract
 
