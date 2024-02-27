@@ -10,6 +10,9 @@ This repository contains the code and the data for the paper `GlitchBench: Can l
         <a href="https://anhnguyen.me/research/">Anh Nguyen</a>, and 
         <a href="https://asgaard.ece.ualberta.ca/">Cor-Paul Bezemer</a> 
     </p>
+    <p style="font-size: 45px;">
+    (CVPR 2024)
+    </p>
 </div>
 
 
